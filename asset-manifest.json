@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/stack-overflow-clone/static/css/main.171f65cb.css",
-    "main.js": "/stack-overflow-clone/static/js/main.84d8769e.js",
+    "main.js": "/stack-overflow-clone/static/js/main.c884cad2.js",
     "static/js/787.2fd5dfea.chunk.js": "/stack-overflow-clone/static/js/787.2fd5dfea.chunk.js",
     "static/media/blacklogo.png": "/stack-overflow-clone/static/media/blacklogo.1fdaaa6247914e51d49b.png",
     "static/media/Globe.svg": "/stack-overflow-clone/static/media/Globe.b4c9a5d99220d0b4e3024a8106e27c49.svg",
@@ -12,11 +12,11 @@
     "static/media/down.svg": "/stack-overflow-clone/static/media/down.02538741938d1ddc342d4f4fe5faedb2.svg",
     "static/media/up.svg": "/stack-overflow-clone/static/media/up.560ead796cd926a6b17337917e725af5.svg",
     "main.171f65cb.css.map": "/stack-overflow-clone/static/css/main.171f65cb.css.map",
-    "main.84d8769e.js.map": "/stack-overflow-clone/static/js/main.84d8769e.js.map",
+    "main.c884cad2.js.map": "/stack-overflow-clone/static/js/main.c884cad2.js.map",
     "787.2fd5dfea.chunk.js.map": "/stack-overflow-clone/static/js/787.2fd5dfea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.171f65cb.css",
-    "static/js/main.84d8769e.js"
+    "static/js/main.c884cad2.js"
   ]
 }
